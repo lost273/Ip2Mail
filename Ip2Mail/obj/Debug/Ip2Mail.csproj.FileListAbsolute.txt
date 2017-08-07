@@ -1,0 +1,5 @@
+D:\programs\VS2015\Projects\Ip2Mail\Ip2Mail\bin\Debug\Ip2Mail.exe
+D:\programs\VS2015\Projects\Ip2Mail\Ip2Mail\bin\Debug\Ip2Mail.pdb
+D:\programs\VS2015\Projects\Ip2Mail\Ip2Mail\obj\Debug\Ip2Mail.csprojResolveAssemblyReference.cache
+D:\programs\VS2015\Projects\Ip2Mail\Ip2Mail\obj\Debug\Ip2Mail.exe
+D:\programs\VS2015\Projects\Ip2Mail\Ip2Mail\obj\Debug\Ip2Mail.pdb
